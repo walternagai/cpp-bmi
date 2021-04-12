@@ -12,5 +12,7 @@ int main() {
   
   // calcule o valor do imc a partir da fórmula
   
+  // mostre o valor do imc calculado
+  
   return 0;
 }
