@@ -1,1 +1,1 @@
-# cpp-imc
+# cpp-bmi
