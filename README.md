@@ -10,12 +10,12 @@ Assim, quem está abaixo do peso deve aumentar o volume muscular para aumentar d
 
 ## Exemplos de valores
 
-*Abaixo do peso* - Peso = 55, Altura = 1.73, IMC = 18.3768
+* *Abaixo do peso* - Peso = 55, Altura = 1.73, IMC = 18.3768
 
-*Normal* - Peso = 66, Altura = 1.73, IMC = 22.0522
+* *Normal* - Peso = 66, Altura = 1.73, IMC = 22.0522
 
-*Sobrepeso* - Peso = 80, Altura = 1.73, IMC = 26.7299
+* *Sobrepeso* - Peso = 80, Altura = 1.73, IMC = 26.7299
 
-*Obesidade 1* - Peso = 90, Altura = 1.73, IMC = 30.0712
+* *Obesidade 1* - Peso = 90, Altura = 1.73, IMC = 30.0712
 
-*Obesidade 2* - Peso = 110, Altura = 1.73, IMC = 36.7536
+* *Obesidade 2* - Peso = 110, Altura = 1.73, IMC = 36.7536
